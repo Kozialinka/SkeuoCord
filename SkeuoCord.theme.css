@@ -18,6 +18,6 @@
 	--medavatarradius: 4px !important; /*default: 4px*/
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('here') center/cover no-repeat !important;
+	--bg-image: url('https://imgur.com/gallery/BPcQx0n') center/cover no-repeat !important;
 	/*------*/
 }
